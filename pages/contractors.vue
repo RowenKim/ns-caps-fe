@@ -238,7 +238,7 @@ useHead({
   ]
 })
 
-// 반응형 데이터
+// 반응형 데이터d
 const searchQuery = ref('')
 const selectedLocation = ref('')
 const selectedRating = ref('')
